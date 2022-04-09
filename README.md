@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wizard3107
+- 👋 Hi, I’m @Ashish Singh 
 - 👀 I’m interested in full stack development 
 - 🌱 I’m currently learning MERN stack development 
 - 💞️ I’m looking to collaborate on the projects related to full stack and MERN stack development
