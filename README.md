@@ -25,5 +25,8 @@
 <p align="center"> 
         <img height= "200px" width ="45%" src="https://github-readme-stats.vercel.app/api?username=wizard3107&theme=react&show_icons=true&include_all_commits=true" />
         <img height= "200px" width ="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizard3107&theme=react&layout=compact" />
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wizard3107&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
  </p>
+ 
+ <p align="center">
+  <img height= "220px" width="50%"  src="http://github-readme-streak-stats.herokuapp.com?user=wizard3107&theme=dark&date_format=j%20M%5B%20Y%5D"/>
+</p>
