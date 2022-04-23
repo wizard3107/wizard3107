@@ -13,14 +13,14 @@
     <a href="https://www.linkedin.com/in/ashish-singh-507ua/"><img alt="Linkedin"
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white?link=http://left&link=https://www.linkedin.com/in/nitesh-goshwami-88629a167/"
             height="35px" /></a>
-        <a href=""><img alt="Gmail"
+        <a href="mailto:ashishsingh9720@gmail.com"><img alt="Gmail"
             src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white?link=http://left&link=goswami.nitesh5794@gmail.com"
             height="35px" width = "130px"/></a>
-    
+ 
 </p>
 
 <br/>
-📈 <h3> My GitHub Status</h3>
+ <h3>📈 My GitHub Stats</h3>
 
 <p align="center"> 
         <img height= "200px" width ="45%" src="https://github-readme-stats.vercel.app/api?username=wizard3107&theme=react&show_icons=true&include_all_commits=true" />
