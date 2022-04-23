@@ -20,7 +20,7 @@
 </p>
 
 <br/>
-📈 my github status
+📈 <h3> My GitHub Status</h3>
 
 <p align="center"> 
         <img height= "200px" width ="45%" src="https://github-readme-stats.vercel.app/api?username=wizard3107&theme=react&show_icons=true&include_all_commits=true" />
